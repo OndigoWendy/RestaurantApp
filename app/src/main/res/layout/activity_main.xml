@@ -39,6 +39,16 @@
         android:background="@color/colorAccent"
         android:textColor="@color/colorTextIcons" />
 
+    <Button
+        android:id="@+id/findAlphabetsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="208dp"
+        android:background="@color/colorAccent"
+        android:text="Alphabets"
+        android:textColor="@color/colorTextIcons" />
+
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

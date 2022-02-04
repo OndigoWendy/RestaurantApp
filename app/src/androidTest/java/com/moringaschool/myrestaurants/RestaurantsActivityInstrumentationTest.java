@@ -23,9 +23,6 @@ import static org.hamcrest.Matchers.anything;
 import static org.hamcrest.Matchers.not;
 
 
-
-
-
 @RunWith(AndroidJUnit4.class)
 public class RestaurantsActivityInstrumentationTest {
     @Rule
