@@ -30,13 +30,13 @@
         app:fontFamily="serif-monospace" />
 
     <Button
+        android:id="@+id/findRestaurantsButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Find Restaurants"
-        android:id="@+id/findRestaurantsButton"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="314dp"
         android:background="@color/colorAccent"
+        android:text="Find Restaurants"
         android:textColor="@color/colorTextIcons" />
 
     <Button
