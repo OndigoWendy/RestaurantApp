@@ -3,14 +3,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/grid_item_label"
-        android:layout_width="60sp"
-        android:layout_height="wrap_content"
-        android:layout_weight="0.8"
-        android:gravity="center_horizontal"
-        android:text="Letter"
-        android:textSize="10sp" />
+<!--    <TextView-->
+<!--        android:id="@+id/grid_item_label"-->
+<!--        android:layout_width="60sp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_weight="0.8"-->
+<!--        android:gravity="center_horizontal"-->
+<!--        android:text=""-->
+<!--        android:textSize="10sp" />-->
 
     <TextView
         android:id="@+id/grid_item_letter"
@@ -19,5 +19,5 @@
         android:layout_weight="1"
         android:gravity="center_horizontal"
         android:text="A"
-        android:textSize="30sp" />
+        android:textSize="60sp" />
 </LinearLayout>
